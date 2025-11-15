@@ -1,0 +1,13 @@
+package com.erp.sub_service;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SubServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SubServiceApplication.class, args);
+	}
+
+}
